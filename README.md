@@ -114,7 +114,7 @@ Dai un'occhiata a [awesome-selfhosted](https://github.com/awesome-selfhosted/awe
 È normale, dietro ogni spunta c'è una competenza.  
 Questi sono i miei corsi per costruirla:
 
-- **[Linux](https://corsolinux.com)**: le fondamenta
+- **[Linux](https://corsolinux.com/linux)**: le fondamenta
 - **[Reti](https://corsoreti.it)**: IP, NAT e come parlano le macchine
 - **[Docker](https://corsolinux.com/docker)**: servizi e compose
 - **[Proxmox](https://corsolinux.com/proxmox)**: virtualizzazione e laboratorio
